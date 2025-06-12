@@ -16,10 +16,10 @@ let isOld: boolean;
 isOld = false;
 console.log(`${isNew} and ${isOld}`);
 
-//null type
+//null type with union
 const user = null
 let newUser: string | null = null
 
-//undefined type
+//undefined type with union
 const age = undefined;
 let newAge: number | undefined = undefined;
