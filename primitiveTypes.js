@@ -14,9 +14,9 @@ const isNew = true;
 let isOld;
 isOld = false;
 console.log(`${isNew} and ${isOld}`);
-//null type
+//null type with union
 const user = null;
 let newUser = null;
-//undefined type
+//undefined type with union
 const age = undefined;
 let newAge = undefined;
