@@ -3,6 +3,7 @@ arr = [1,2,3,4,5];
 
 const newArr: string[] = ["hello", "hi", "bye"];
 
+
 console.log(`Array Numbers: ${arr}\n Array Strings: ${newArr}`);
 
 
@@ -22,3 +23,4 @@ let coords: [number,number][] = [
     [-1,-2]
 ]
 console.log(coords[0][1]);
+
